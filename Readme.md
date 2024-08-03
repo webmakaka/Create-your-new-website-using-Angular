@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=Lyd9tcttXDA&list=PLY7EDLM5qnl7dcJZj8-g4h9mfvTt3i
 https://github.com/admister/Angular-17-website/
 
 
-**Demo**
+**Demo**  
 https://demos.onepagelove.com/html/namari/
 
 
-**Download Template**
+**Download Template**  
 https://onepagelove.com/namari
