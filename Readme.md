@@ -31,3 +31,14 @@ $ ng generate component /components/pricing
 $ ng generate component /components/footer
 $ ng generate component /components/notfound
 ```
+
+<br/>
+
+---
+
+<br/>
+
+**Marley**
+
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
