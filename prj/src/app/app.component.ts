@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { AboutComponent } from './components/about/about.component';
 import { ClientsComponent } from './components/clients/clients.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -15,6 +15,8 @@ import { TestimonialsComponent } from './components/testimonials/testimonials.co
   standalone: true,
   imports: [
     RouterOutlet,
+    RouterLink,
+    RouterLinkActive,
     HeaderComponent,
     AboutComponent,
     ClientsComponent,
