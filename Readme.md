@@ -12,10 +12,6 @@ https://demos.onepagelove.com/html/namari/
 **Download Template**  
 https://onepagelove.com/namari
 
-<hr/>
-
-### Create your new website using Angular 17 - Part 1 -- Transforming HTML into Angular 17 Magic!
-
 <br/>
 
 ```
