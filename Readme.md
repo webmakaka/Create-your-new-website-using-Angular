@@ -30,6 +30,17 @@ $ ng generate component /components/notfound
 
 <br/>
 
+### Create your new website using Angular 17 - Part 4 --Create service and Interface
+
+<br/>
+
+```
+$ cd prj
+$ ng generate service /services/config
+```
+
+<br/>
+
 ---
 
 <br/>
