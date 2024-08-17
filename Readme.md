@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=Lyd9tcttXDA&list=PLY7EDLM5qnl7dcJZj8-g4h9mfvTt3i
 **Original src:**  
 https://github.com/admister/Angular-17-website/
 
-**Demo**  
+**Demo Template**  
 https://demos.onepagelove.com/html/namari/
 
 **Download Template**  
@@ -37,7 +37,10 @@ $ ng generate component /components/notfound
 ```
 $ cd prj
 $ ng generate service /services/config
+$ ng generate interface /services/configItem
 ```
+
+Осталось 27 минут
 
 <br/>
 

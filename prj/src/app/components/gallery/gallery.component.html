@@ -5,7 +5,7 @@
   data-featherlight-gallery
   data-featherlight-filter="a"
 >
-  @for (image of Gallery.GalleryImages; track image) {
+  @for (image of gallery?.data?.galleryBlocks; track image) {
   <a
     href="{{ image.url }}"
     data-featherlight="image"
