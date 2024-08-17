@@ -26,6 +26,7 @@ $ ng generate component /components/clients
 $ ng generate component /components/pricing
 $ ng generate component /components/footer
 $ ng generate component /components/notfound
+$ ng generate component /components/social
 ```
 
 <br/>
@@ -39,8 +40,6 @@ $ cd prj
 $ ng generate service /services/config
 $ ng generate interface /services/configItem
 ```
-
-Осталось 27 минут
 
 <br/>
 
