@@ -1,7 +1,7 @@
 # [YouTube] Create your new website using Angular 17 [ENG, 2024]
 
 **YouTube:**  
-https://www.youtube.com/watch?v=Lyd9tcttXDA&list=PLY7EDLM5qnl7dcJZj8-g4h9mfvTt3iZuL&index=2
+https://www.youtube.com/watch?v=Lyd9tcttXDA&list=PLY7EDLM5qnl7dcJZj8-g4h9mfvTt3iZuL
 
 **Original src:**  
 https://github.com/admister/Angular-17-website/
@@ -27,6 +27,8 @@ $ ng generate component /components/pricing
 $ ng generate component /components/footer
 $ ng generate component /components/notfound
 $ ng generate component /components/social
+$ ng generate component /components/contactus
+$ ng generate component /components/subscribe
 ```
 
 <br/>
@@ -51,6 +53,10 @@ $ npm init -y
 $ npm i json-server
 $ npm start
 ```
+
+<br/>
+
+### Create your new website using Angular 17 - Part 6 --using forms and Named outlets
 
 <br/>
 

@@ -1,7 +1,7 @@
 {
   "configuration": [
     {
-      "id": 1,
+      "id": "1",
       "name": "about",
       "data": {
         "title": "A FREE AND SIMPLE LANDING PAGE",
@@ -35,9 +35,8 @@
         ]
       }
     },
-
     {
-      "id": 2,
+      "id": "2",
       "name": "clients",
       "data": {
         "title": "TRUST",
@@ -93,7 +92,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "gallery",
       "data": {
         "title": "Gallery",
@@ -134,7 +133,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "header",
       "data": {
         "title": "SUCCESS",
@@ -144,7 +143,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "pricing",
       "data": {
         "title": "YOUR CHOICE",
@@ -200,7 +199,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "services",
       "data": {
         "title": "BELIEVING",
@@ -209,7 +208,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "testimonials",
       "data": {
         "title": "FEEDBACK",
@@ -217,18 +216,21 @@
         "detail": "",
         "feedbacks": [
           {
+            "id": 1,
             "name": "John Doe",
             "userimage": "../assets/images/user-images/user-1.jpg",
             "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "company": "ABC"
           },
           {
+            "id": 2,
             "name": "Roslyn Doe",
             "userimage": "../assets/images/user-images/user-2.jpg",
             "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "company": "XYZ"
           },
           {
+            "id": 3,
             "name": "Thomas Doe",
             "userimage": "../assets/images/user-images/user-3.jpg",
             "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
@@ -238,7 +240,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "footer",
       "data": {
         "title": "Made with love by",
@@ -247,7 +249,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "social",
       "data": {
         "title": "socialicons",
@@ -294,6 +296,12 @@
           }
         ]
       }
+    }
+  ],
+  "subscribersBlock": [
+    {
+      "id": "1",
+      "email": "marley@example.com"
     }
   ]
 }

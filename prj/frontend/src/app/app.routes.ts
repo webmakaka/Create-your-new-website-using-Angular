@@ -1,11 +1,13 @@
 import { Routes } from '@angular/router';
 import { AboutComponent } from './components/about/about.component';
 import { ClientsComponent } from './components/clients/clients.component';
+import { ContactusComponent } from './components/contactus/contactus.component';
 import { GalleryComponent } from './components/gallery/gallery.component';
 import { HeaderComponent } from './components/header/header.component';
 import { NotfoundComponent } from './components/notfound/notfound.component';
 import { PricingComponent } from './components/pricing/pricing.component';
 import { ServicesComponent } from './components/services/services.component';
+import { SubscribeComponent } from './components/subscribe/subscribe.component';
 import { TestimonialsComponent } from './components/testimonials/testimonials.component';
 
 export const routes: Routes = [
@@ -44,6 +46,19 @@ export const routes: Routes = [
     title: 'Administer Studios | Services',
     path: 'services',
     component: ServicesComponent,
+  },
+
+  {
+    title: 'Administer Studios | Contact Us',
+    path: 'contactus',
+    component: ContactusComponent,
+    outlet: 'popup',
+  },
+  {
+    title: 'Administer Studios | Subscribe',
+    path: 'subscribe',
+    component: SubscribeComponent,
+    outlet: 'popup',
   },
   {
     title: 'Administer Studios | Not Found',

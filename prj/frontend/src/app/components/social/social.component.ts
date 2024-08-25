@@ -15,7 +15,7 @@ export class SocialComponent {
 
   constructor() {
     this.configService
-      .getPageById(7)
+      .getPageById(9)
       .subscribe((response) => (this.social = response));
   }
 }

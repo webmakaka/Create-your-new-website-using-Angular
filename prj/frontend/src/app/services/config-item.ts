@@ -40,6 +40,7 @@ export interface ConfigItem {
       buttonText: string;
     }[];
     feedbacks?: {
+      id: number;
       name: string;
       userimage: string;
       comments: string;
