@@ -43,6 +43,16 @@ $ ng generate interface /services/configItem
 
 <br/>
 
+### Create your new website using Angular 17 - Part 5 --Fetch Data from live data server
+
+```
+$ cd prj/api
+$ npm init -y
+$ npm start
+```
+
+<br/>
+
 ---
 
 <br/>
