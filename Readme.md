@@ -48,6 +48,7 @@ $ ng generate interface /services/configItem
 ```
 $ cd prj/api
 $ npm init -y
+$ npm i json-server
 $ npm start
 ```
 
